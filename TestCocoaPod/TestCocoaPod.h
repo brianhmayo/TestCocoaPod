@@ -3,7 +3,7 @@
 //  TestCocoaPod
 //
 //  Created by Brian H. Mayo on 9/7/17.
-//  Copyright © 2017 Vanguard. All rights reserved.
+//  Copyright © 2017 TheGroup. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
